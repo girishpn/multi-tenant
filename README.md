@@ -11,3 +11,6 @@ Download the application. Change the connection string credential from the appse
   * User Name: admin@test.com
   * Password : 123456
 
+
+
+<!-- Security scan triggered at 2025-09-01 20:15:08 -->
